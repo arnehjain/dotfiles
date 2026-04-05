@@ -1,0 +1,13 @@
+# ~/.zshrc_local — Machine-specific config (not tracked in git)
+
+# --- Secrets & Tokens ---
+# export ARTIFACTORY_USERNAME=
+# export NPM_TOKEN=
+# export OPENAI_API_KEY=
+
+# --- Machine-specific PATH ---
+# export PATH="$PATH:..."
+
+# --- Lazy-loaders (conda, jenv, etc.) ---
+
+# --- Work-specific functions (k8s contexts, etc.) ---
